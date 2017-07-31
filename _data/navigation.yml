@@ -1,6 +1,8 @@
 - title: Home
   url: /
-- title: Contact
-  url: /contact/
 - title: About
   url: /about/
+- title: Usage
+  url: /usage/ 
+- title: Contact
+  url: /contact/
