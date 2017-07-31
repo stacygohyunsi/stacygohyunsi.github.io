@@ -11,3 +11,4 @@ permalink: /usage/
 	</ol>
 </div>
 Sit back, relax and wait for your notifications to come in!(:
+
