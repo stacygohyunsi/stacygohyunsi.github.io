@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Github Chrome Notifier sends you chrome notifications whenever events on your Github repository are triggered
+Github Chrome Notifier sends you chrome notifications whenever events on your Github repository are triggered.
 
 <img class="samplePhotos" src="../assets/chromepic.png"/>
 <img class="samplePhotos" src="../assets/chromepic2.png"/>
