@@ -48,10 +48,12 @@ header {
 }
 main {
 	padding: 0 20px;
+	padding-top: 30px;	
 	max-width: $content-width;
 	margin: 0 auto;
 	text-align: center;
 }
+
 time {
 	color: #898989;
 }
@@ -69,7 +71,15 @@ time {
 #profile {
 	border-radius: 50%;
 	width:100px;
-	height:100px;	
+	height:100px;
+	background-image: url('../assets/stacy.jpg');
+	background-position-x: 70%;
+	background-size:cover;
+	margin: 0 auto;
+}
+
+#mainImage {
+	width:80%;
 }
 
 aside {
