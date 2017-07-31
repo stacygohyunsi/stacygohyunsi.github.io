@@ -50,6 +50,7 @@ main {
 	padding: 0 15px;
 	max-width: $content-width;
 	margin: 0 auto;
+	text-align: center;
 }
 time {
 	color: #898989;
@@ -60,6 +61,12 @@ time {
 }
 
 /* Aside */
+
+#profile {
+	border-radius: 50%;
+	width:100px;
+	height:100px;	
+}
 
 aside {
 	position: fixed;

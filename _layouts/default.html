@@ -3,6 +3,23 @@
 {% include head.html %}
 
 <body>
+	<aside>
+		<div class="container">
+		<nav>
+				<ul>
+				{% for link in site.data.navigation %}
+						{% assign current = nil %}
+						{% if page.url contains link.url %}
+								{% assign current = 'active' %}
+						{% endif %}
+						<li class="{{ current }}">
+								<a href="{{ link.url }}">{{ link.title }}</a>
+						</li>
+				{% endfor %}
+				</ul>
+		</nav>	
+		</div>
+	</aside>
 	<main>
 		<article>
 			{{ content }}
