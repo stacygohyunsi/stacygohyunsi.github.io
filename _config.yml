@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Github Chrome Notifier
-email: hello@imstacy.com
+email: hello@imstacy.com 
 description: A Chrome extension which shows notifications for your Github repository (when someone stars your repo, opens an issue or a pull request)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://stacygohyunsi/github.io" # the base hostname & protocol for your site, e.g. http://example.com
